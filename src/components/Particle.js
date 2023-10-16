@@ -40,7 +40,7 @@ function Particle() {
               mode: "push",
             },
           },
-          modes: {
+          modes: { 
             push: {
               particles_nb: 1,
             },
